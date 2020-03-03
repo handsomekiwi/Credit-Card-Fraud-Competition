@@ -1,0 +1,18 @@
+歸戶帳號bacno:
+交易序號txkey:
+授權日期locdt :
+授權時間loctm:
+交易卡號cano:
+交易類別contp:
+交易型態etymd:
+特店代號mchno:
+收單行代碼acqic:
+MCC_CODE mcc:
+交易金額-台幣conam:
+網路交易註記ecfg:
+分期交易註記insfg:
+分期期數iterm:
+flbmk代表是否透過刷磁條的方式完成交易，
+loctm格式為時分秒，
+若時間為下午三點十分零秒，
+則會顯示151000.0，
